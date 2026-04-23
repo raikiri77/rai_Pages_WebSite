@@ -19,5 +19,23 @@ permalink: /
 おすすめのリプレイ（風）動画  
 [【SW2.5】蛇と邪神とアルフレイム冒険譚](https://www.nicovideo.jp/user/3370276/mylist/67427856?ref=pc_userpage_mylist)  
 [【SW2.5】「アルフレイムの車窓から」【ボイロTRPG】【ボイボTRPG】](https://www.nicovideo.jp/watch/sm40550754)
+[【東方卓遊戯】テスガルト開拓誌　ソード・ワールド2.5](https://www.nicovideo.jp/user/49129714/series/194206)
 
+##ダブルクロス 3rd
+国産TRPGの一つ。現代異能物であり、基本的に現代日本が舞台になっている。  
+戦闘よりのシステムであり、初期作成からでも幅広いキャラクター作成ができる。  
+知名度はそこまで高くない、そしてルールが少し煩雑な以外は好む人も多いシステムである。  
+おすすめリプレイ（風）動画  
+[ダブルクロスをしよう!](https://www.nicovideo.jp/user/39346743/mylist/65888502?ref=pc_userpage_mylist)  
+
+##シノビガミ
+国産TRPGの一つ。ダブルクロスと同じ現代異能物である。忍者となり影の世界で暗躍するといった感じ。  
+明確にPVPが発生しうるシステムであり、そこは少し難しい。  
+ルールがかなり簡潔であり、6面ダイス2つでできるのが魅力である。  
+スタートブックだけは買うな  
+
+おすすめリプレイ（風）動画
+[こってり系シノビガミ「枯れよ我が涙、と機忍は言った」](https://www.youtube.com/watch?v=9gFzaMxZygg&t=309s)
+[一般人でめちゃくちゃにする初心者共のシノビガミ【三頃神社の攻防｜ボイロTRPGリプレイ】](https://www.youtube.com/watch?v=Fk5OMVxf9uo&t=991s)
+[シノビガミリプレイ【妖姫の櫛飾り】part1：ゆっくりＴＲＰＧ](https://www.nicovideo.jp/watch/sm26848897)
 ![image](/rai_Pages_WebSite/assets/images/logo-150.png)
