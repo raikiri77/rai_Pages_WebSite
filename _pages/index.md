@@ -20,4 +20,4 @@ permalink: /
 [【SW2.5】蛇と邪神とアルフレイム冒険譚](https://www.nicovideo.jp/user/3370276/mylist/67427856?ref=pc_userpage_mylist)  
 [【SW2.5】「アルフレイムの車窓から」【ボイロTRPG】【ボイボTRPG】](https://www.nicovideo.jp/watch/sm40550754)
 
-![image](/GHPages_WebSite/assets/images/logo-150.png)
+![image](/rai_Pages_WebSite/assets/images/logo-150.png)
